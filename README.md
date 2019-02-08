@@ -12,6 +12,7 @@ substring(1)メソッドを呼び出すことで2文字目以降の文字列を�
 
 ## 実行結果
 HTMLファイルを表示すると下図の表示結果となります。
-
+<img src="https://github.com/nak-244/get-parameter/blob/master/img/none.png">
 
 URLの末尾にパラメーター"q"を追加します。(URLの末尾に?q=北海道を追加しました。）
+<img src="https://github.com/nak-244/get-parameter/blob/master/img/hokkaido.png">
